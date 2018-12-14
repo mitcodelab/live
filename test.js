@@ -10,3 +10,5 @@
     "content_type": "json"
   }
 }
+
+//GET /repos/:owner/:repo/hooks/:hook_id
