@@ -16,3 +16,5 @@
   "updated_at": "2011-09-06T20:39:23Z",
   "created_at": "2011-09-06T17:26:27Z"
 }
+
+//PATCH /repos/:owner/:repo/hooks/:hook_id
